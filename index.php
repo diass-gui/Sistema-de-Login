@@ -7,8 +7,8 @@
     <link rel="stylesheet" type="text/css" href="dokasi/estilo.css">
     <title>Login</title>
 </head>
-<header><h1>Cadastro de Usuário</h1></header>
+<header><h1>Login do Usuário</h1></header>
 <body>
-    
+    <form action="processa.php" method="POST"> </form>
 </body>
 </html>
