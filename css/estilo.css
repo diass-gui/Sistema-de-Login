@@ -1,3 +1,16 @@
-.h1 {
-    text-align: center;
+body {
+background: rgb(249, 250, 249);
+}
+#area
+{
+  position:relative;
+  left:37%;
+  top:29%;
+  width:320px;
+  height:270px;
+}
+#area #form
+{
+  position:absolute;
+  display:block;
 }
