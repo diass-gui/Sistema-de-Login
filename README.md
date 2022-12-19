@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sistema de Login - PHP
 
 Olá! Meu nome é Guilherme Dias.
